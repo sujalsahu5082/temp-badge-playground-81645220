@@ -1,52 +1,10 @@
-# GitHub Achievements Playground
+# Collaboration Sandbox
 
-This is a temporary repository created to unlock Achievements.
+A testbed repository for exploring and validating multi-developer collaboration patterns, continuous integration pipeline triggers, and Git branch policies.
 
-- Added YOLO achievement details.
-- Added Pair Extraordinaire co-author details.
-- Co-authored commit for PR #3.
-- Co-authored commit for PR #4.
-- Co-authored commit for PR #5.
-- Co-authored commit for PR #6.
-- Co-authored commit for PR #7.
-- Co-authored commit for PR #8.
-- Co-authored commit for PR #9.
-- Co-authored commit for PR #10.
-- Co-authored commit for PR #11.
-- Co-authored commit for PR #12.
-- Co-authored commit for PR #13.
-- Co-authored commit for PR #14.
-- Co-authored commit for PR #15.
-- Co-authored commit for PR #16.
-- Co-authored commit for PR #17.
-- Co-authored commit for PR #18.
-- Co-authored commit for PR #19.
-- Co-authored commit for PR #20.
-- Co-authored commit for PR #21.
-- Co-authored commit for PR #22.
-- Co-authored commit for PR #23.
-- Co-authored commit for PR #24.
-- Co-authored commit for PR #25.
-- Co-authored commit for PR #26.
-- Co-authored commit for PR #27.
-- Co-authored commit for PR #28.
-- Co-authored commit for PR #29.
-- Co-authored commit for PR #30.
-- Co-authored commit for PR #31.
-- Co-authored commit for PR #32.
-- Co-authored commit for PR #33.
-- Co-authored commit for PR #34.
-- Co-authored commit for PR #35.
-- Co-authored commit for PR #36.
-- Co-authored commit for PR #37.
-- Co-authored commit for PR #38.
-- Co-authored commit for PR #39.
-- Co-authored commit for PR #40.
-- Co-authored commit for PR #41.
-- Co-authored commit for PR #42.
-- Co-authored commit for PR #43.
-- Co-authored commit for PR #44.
-- Co-authored commit for PR #45.
-- Co-authored commit for PR #46.
-- Co-authored commit for PR #47.
-- Co-authored commit for PR #48.
+## Purpose
+This repository serves as a sandbox for testing:
+- Branch protection rules
+- Pull request templates and code review gates
+- Co-authored commit attribution in shared work trees
+- Automatic merge actions and CI verification steps
